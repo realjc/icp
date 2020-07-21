@@ -1,3 +1,6 @@
+icp point-to-point的实现，便于学习。
+![image](https://github.com/realjc/icp/blob/master/doc/icp.png)
+
 # What is this?
 This library implements various Iterative Closest Point algorithm approaches. The main well known approaches are already implemented: 
 
